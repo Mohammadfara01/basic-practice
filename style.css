@@ -30,3 +30,9 @@
     text-decoration: none;
     padding: 7px;
 }
+
+.logo-name{
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: bold;
+}
