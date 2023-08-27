@@ -46,3 +46,8 @@ nav{
 body{
     background-color: #edf2f7;
 }
+
+.main{
+    display: flex;
+    padding: 1.5rem;
+}
