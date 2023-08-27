@@ -51,3 +51,7 @@ body{
     display: flex;
     padding: 1.5rem;
 }
+
+aside{
+    width: 25%;
+}
