@@ -24,3 +24,9 @@
     display: flex;
     list-style-type: none;
 }
+
+.navbar a{
+    color: #ffffff;
+    text-decoration: none;
+    padding: 7px;
+}
