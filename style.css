@@ -4,6 +4,7 @@
 }
 
 .header{
+    background-color: rgb(0, 21, 79);
     display: flex;
     justify-content: space-between;
 }
