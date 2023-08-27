@@ -49,7 +49,7 @@ body{
 
 .main{
     display: flex;
-    padding: 1.5rem;
+    padding: 1.5rem 2rem;
 }
 
 aside{
