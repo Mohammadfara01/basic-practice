@@ -64,4 +64,5 @@ aside, main{
     background-color: #ffffff;
     height: 600px;
     padding: 1rem;
+    border-radius: 40px;
 }
